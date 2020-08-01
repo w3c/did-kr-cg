@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to did-kr"
+title:  "Welcome to did-kr-cg"
 date:   2020-08-01 23:57:09 +0900
 categories: news
 ---
