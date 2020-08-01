@@ -1,0 +1,23 @@
+title: Decentralized Identity (DID) Korean Community Group
+author: did-kr-cg
+email: public-did-kr@w3.org
+baseurl: "/did-kr-cg"
+url: "https://w3c.github.io"
+
+# Build settings
+# theme: minima
+remote_theme: aterenin/minima-reboot
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-redirect-from
+
+header_pages:
+  - posts.md
+  - about.md
+  - github.md
+
+paginate: 5
+
+markdown: kramdown
